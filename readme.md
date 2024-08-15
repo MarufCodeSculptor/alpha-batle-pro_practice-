@@ -1,4 +1,4 @@
-# Typing Game
+# [Typing Game](https://marufcodesculptor.github.io/alpha-batle-pro_practice-/)
 
 ## Overview
 
